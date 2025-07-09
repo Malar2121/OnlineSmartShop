@@ -5,9 +5,6 @@
   <img src="./readme-banner.png">
 </p>
 
-s
-  <img src="./work-in-the-netherlands.png" width="380" height="90">
-</p>
 
 ✈️ [Follow Jeremy Akeze](https://www.linkedin.com/in/jeremy-akeze-9542b396/)
 
